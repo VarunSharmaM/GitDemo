@@ -12,4 +12,9 @@ public class App
         System.out.println( "Hello World1!" );
         System.out.println( "Hello World2!" );
     }
+    
+    public void newMeth()
+    {
+    	 System.out.println( "this is new" );
+    }
 }
