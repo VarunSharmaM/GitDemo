@@ -17,4 +17,9 @@ public class App
     {
     	 System.out.println( "this is new" );
     }
+    
+    public void newMeth1()
+    {
+    	 System.out.println( "this is new1" );
+    }
 }
